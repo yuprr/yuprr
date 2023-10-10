@@ -35,4 +35,4 @@ To run our Online Bookstore locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookstore.git
+   git clone https://github.com/yuprr/yuprr.git
